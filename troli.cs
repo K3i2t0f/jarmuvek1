@@ -9,6 +9,7 @@ namespace BuszOOP
         private string hajtas;
         private int szekek;
 
+
         public Busz(string szin, int evjarat, string hajtas, int szekek){
             this.szin = szin;
             this.evjarat = evjarat;
