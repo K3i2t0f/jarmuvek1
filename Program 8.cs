@@ -8,6 +8,7 @@ namespace BuszOOP
         static void Main(string[] args)
         {
 
+
             Busz t1 = new Busz("Piros", 12);
             t1.Evjarat = 2010;
             System.Console.WriteLine(t1);
